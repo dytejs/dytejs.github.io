@@ -146,4 +146,4 @@ Subscribing to a store
 
 ________________________________________________
 
-© Copyright 2021 made by [Tobithedev](https://github.com/Tobithedev) and [Vadex Team](https://github.com/vadex)
+© Copyright 2021 made by [Tobithedev](https://github.com/Tobithedev) and [Vadex Team](https://github.com/vadexjs)
