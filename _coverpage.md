@@ -1,8 +1,8 @@
 ![logo](src/logo.svg)
 
-# VadexJs
+# DyteJs
 
 > The Official State Management Library For DativeJs.
 
-[GitHub](https://github.com/vadexjs/vadexjs)
+[GitHub](https://github.com/dytejs/dytejs)
 [Get Started](#get-started)
