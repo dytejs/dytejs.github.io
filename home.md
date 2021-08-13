@@ -1,6 +1,8 @@
 > # DyteJs - Official State Management For DativeJs
 
 ![License](src/License-MIT-yellow.svg)
+![Downloads](https://img.shields.io/npm/dt/dytejs)
+
 # Installation
 ### Download
 ```html 
@@ -153,7 +155,3 @@ Subscribing to a store
     console.log(state.count)
   })
 ```
-
-________________________________________________
-
-© Copyright 2021 made by [Tobithedev](https://github.com/Tobithedev) and [DyteJs Team](https://github.com/dytejs)
